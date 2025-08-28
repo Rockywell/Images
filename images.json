@@ -1,7 +1,7 @@
 {
   "Bosses": {
     "Completion Mark Bosses": {
-      "Blue Baby": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Blue%20Baby.png",
+      "??? (Blue Baby)": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/%3F%3F%3F%20%28Blue%20Baby%29.png",
       "Delirium": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Delirium.png",
       "Dogma": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Dogma.png",
       "Great Gideon (Extra)": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Great%20Gideon%20%28Extra%29.png",
@@ -16,12 +16,12 @@
       "Satan": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Satan.png",
       "The Beast": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/The%20Beast.png",
       "The Lamb": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/The%20Lamb.png",
-      "Ultra Death (The Beast)": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Ultra%20Death%20%28The%20Beast%29.png",
-      "Ultra Famine (The Beast)": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Ultra%20Famine%20%28The%20Beast%29.png",
+      "Ultra Death": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Ultra%20Death.png",
+      "Ultra Famine": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Ultra%20Famine.png",
       "Ultra Greed": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Ultra%20Greed.png",
       "Ultra Greedier": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Ultra%20Greedier.png",
-      "Ultra Pestilence (The Beast)": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Ultra%20Pestilence%20%28The%20Beast%29.png",
-      "Ultra War (The Beast)": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Ultra%20War%20%28The%20Beast%29.png"
+      "Ultra Pestilence": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Ultra%20Pestilence.png",
+      "Ultra War": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Completion%20Mark%20Bosses/Ultra%20War.png"
     },
     "Baby Plum": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Baby%20Plum.png",
     "Big Horn": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Bosses/Big%20Horn.png",
@@ -899,13 +899,38 @@
       "Fixed Shovel": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Story/Fixed%20Shovel.png"
     }
   },
+  "Mechanics": {
+    "Curses": {
+      "Curse of Darkness": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Curses/Curse%20of%20Darkness.png",
+      "Curse of the Blind": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Curses/Curse%20of%20the%20Blind.png",
+      "Curse of the Cursed": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Curses/Curse%20of%20the%20Cursed.png",
+      "Curse of the Giant": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Curses/Curse%20of%20the%20Giant.png",
+      "Curse of the Labyrinth": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Curses/Curse%20of%20the%20Labyrinth.png",
+      "Curse of the Lost": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Curses/Curse%20of%20the%20Lost.png",
+      "Curse of the Maze": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Curses/Curse%20of%20the%20Maze.png",
+      "Curse of the Unknown": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Curses/Curse%20of%20the%20Unknown.png"
+    },
+    "Recharge Bars": {
+      "Recharge 1 Rooms": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%201%20Rooms.png",
+      "Recharge 12 Rooms": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%2012%20Rooms.png",
+      "Recharge 2 Rooms": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%202%20Rooms.png",
+      "Recharge 3 Rooms": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%203%20Rooms.png",
+      "Recharge 4 Rooms": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%204%20Rooms.png",
+      "Recharge 6 Rooms": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%206%20Rooms.png",
+      "Recharge Damage": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%20Damage.png",
+      "Recharge One Time": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%20One%20Time.png",
+      "Recharge Time": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%20Time.png",
+      "Recharge Unlimited": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%20Unlimited.png",
+      "Recharge Variable": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%20Variable.gif"
+    }
+  },
   "Objects": {
     "Beggars": {
       "Battery Bum": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/Beggars/Battery%20Bum.png",
       "Beggar": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/Beggars/Beggar.png",
       "Bomb Bum": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/Beggars/Bomb%20Bum.png",
       "Devil Beggar": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/Beggars/Devil%20Beggar.png",
-      "Hell- Game": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/Beggars/Hell-%20Game.png",
+      "Hell Game": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/Beggars/Hell%20Game.png",
       "Key Master": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/Beggars/Key%20Master.png",
       "Rotten Beggar": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/Beggars/Rotten%20Beggar.png",
       "Shell Game": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/Beggars/Shell%20Game.png"
