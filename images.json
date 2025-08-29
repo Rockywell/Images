@@ -173,7 +173,7 @@
       "Anarchist Cookbook": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Anarchist%20Cookbook.png",
       "Anima Sola": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Anima%20Sola.png",
       "Bag of Crafting": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Bag%20of%20Crafting.png",
-      "Berserk": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Berserk.png",
+      "Berserk!": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Berserk%21.png",
       "Best Friend": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Best%20Friend.png",
       "Black Hole": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Black%20Hole.png",
       "Blank Card": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Blank%20Card.png",
@@ -1003,17 +1003,20 @@
   },
   "Pickups": {
     "Batteries": {
-      "Golden Battery": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Batteries/Golden%20Battery.png",
+      "Golden Battery": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Batteries/Golden%20Battery.gif",
       "Lil' Battery": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Batteries/Lil%27%20Battery.png",
-      "Mega Battery": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Batteries/Mega%20Battery.png",
+      "Mega Battery": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Batteries/Mega%20Battery.gif",
       "Micro Battery": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Batteries/Micro%20Battery.png"
     },
     "Bombs": {
       "Bomb": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Bombs/Bomb.png",
       "Double Bomb": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Bombs/Double%20Bomb.png",
       "Giga Bomb": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Bombs/Giga%20Bomb.png",
-      "Golden Bomb": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Bombs/Golden%20Bomb.png",
-      "Throwable Bomb": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Bombs/Throwable%20Bomb.png"
+      "Golden Bomb": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Bombs/Golden%20Bomb.gif",
+      "Golden Troll Bomb": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Bombs/Golden%20Troll%20Bomb.gif",
+      "Mega Troll Bomb": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Bombs/Mega%20Troll%20Bomb.png",
+      "Throwable Bomb": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Bombs/Throwable%20Bomb.png",
+      "Troll Bomb": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Bombs/Troll%20Bomb.png"
     },
     "Cards": {
       "0 - The Fool": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Cards/0%20-%20The%20Fool.png",
@@ -1085,31 +1088,32 @@
       "XXI - The World?": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Cards/XXI%20-%20The%20World%3F.png"
     },
     "Coins": {
-      "Dime": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Coins/Dime.png",
-      "Double Penny": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Coins/Double%20Penny.png",
-      "Golden Penny": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Coins/Golden%20Penny.png",
-      "Lucky Penny": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Coins/Lucky%20Penny.png",
-      "Nickel": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Coins/Nickel.png",
-      "Penny": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Coins/Penny.png"
+      "Dime": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Coins/Dime.gif",
+      "Double Penny": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Coins/Double%20Penny.gif",
+      "Golden Penny": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Coins/Golden%20Penny.gif",
+      "Lucky Penny": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Coins/Lucky%20Penny.gif",
+      "Nickel": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Coins/Nickel.gif",
+      "Penny": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Coins/Penny.gif"
     },
     "Hearts": {
-      "Black Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Black%20Heart.png",
-      "Blended Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Blended%20Heart.png",
-      "Bone Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Bone%20Heart.png",
-      "Double Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Double%20Heart.png",
-      "Eternal Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Eternal%20Heart.png",
-      "Gold Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Gold%20Heart.png",
-      "Half Red Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Half%20Red%20Heart.png",
-      "Half Soul Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Half%20Soul%20Heart.png",
-      "Red Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Red%20Heart.png",
-      "Rotten Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Rotten%20Heart.png",
-      "Soul Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Soul%20Heart.png"
+      "Black Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Black%20Heart.gif",
+      "Blended Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Blended%20Heart.gif",
+      "Bone Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Bone%20Heart.gif",
+      "Double Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Double%20Heart.gif",
+      "Eternal Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Eternal%20Heart.gif",
+      "Gold Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Gold%20Heart.gif",
+      "Half Red Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Half%20Red%20Heart.gif",
+      "Half Soul Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Half%20Soul%20Heart.gif",
+      "Red Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Red%20Heart.gif",
+      "Rotten Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Rotten%20Heart.gif",
+      "Scared Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Scared%20Heart.gif",
+      "Soul Heart": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Hearts/Soul%20Heart.gif"
     },
     "Keys": {
       "Charged Key": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Keys/Charged%20Key.gif",
-      "Double Key": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Keys/Double%20Key.png",
-      "Golden Key": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Keys/Golden%20Key.png",
-      "Key": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Keys/Key.png"
+      "Golden Key": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Keys/Golden%20Key.gif",
+      "Key Ring": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Keys/Key%20Ring.gif",
+      "Key": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Keys/Key.gif"
     },
     "Other": {
       "Cracked Key": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Pickups/Other/Cracked%20Key.png",
