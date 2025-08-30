@@ -198,7 +198,7 @@
       "Crack the Sky": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Crack%20the%20Sky.png",
       "Crooked Penny": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Crooked%20Penny.png",
       "Crystal Ball": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Crystal%20Ball.png",
-      "D Infinity": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/D%20Infinity.png",
+      "D Infinity": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/D%20Infinity.gif",
       "D1": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/D1.png",
       "D10": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/D10.png",
       "D100": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/D100.png",
@@ -223,8 +223,8 @@
       "Eraser": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Eraser.png",
       "Esau Jr.": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Esau%20Jr..png",
       "Eternal D6": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Eternal%20D6.png",
-      "Everything Jar": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Everything%20Jar.png",
-      "Flip": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Flip.png",
+      "Everything Jar": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Everything%20Jar.gif",
+      "Flip": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Flip.gif",
       "Flush!": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Flush%21.png",
       "Forget Me Now": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Forget%20Me%20Now.png",
       "Fortune Cookie": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Fortune%20Cookie.png",
@@ -245,7 +245,7 @@
       "Isaac's Tears": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Isaac%27s%20Tears.png",
       "IV Bag": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/IV%20Bag.png",
       "Jar of Flies": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Jar%20of%20Flies.png",
-      "Jar of Wisps": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Jar%20of%20Wisps.png",
+      "Jar of Wisps": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Jar%20of%20Wisps.gif",
       "Kamikaze!": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Kamikaze%21.png",
       "Keeper's Box": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Keeper%27s%20Box.png",
       "Kidney Bean": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Active/Kidney%20Bean.png",
@@ -495,7 +495,7 @@
       "Divine Intervention": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Passive/Divine%20Intervention.png",
       "Divorce Papers": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Passive/Divorce%20Papers.png",
       "Dog Tooth": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Passive/Dog%20Tooth.png",
-      "Dogma": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Passive/Dogma.png",
+      "Dogma": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Passive/Dogma.gif",
       "Dr. Fetus": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Passive/Dr.%20Fetus.png",
       "Dream Catcher": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Passive/Dream%20Catcher.png",
       "Dry Baby": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Items/Passive/Dry%20Baby.png",
@@ -922,6 +922,23 @@
       "Recharge Time": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%20Time.png",
       "Recharge Unlimited": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%20Unlimited.png",
       "Recharge Variable": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Recharge%20Bars/Recharge%20Variable.gif"
+    },
+    "Transformations": {
+      "Adult": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Adult.png",
+      "Beelzebub": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Beelzebub.png",
+      "Bob": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Bob.png",
+      "Bookworm": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Bookworm.png",
+      "Conjoined": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Conjoined.png",
+      "Fun Guy": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Fun%20Guy.png",
+      "Guppy": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Guppy.png",
+      "Leviathan": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Leviathan.png",
+      "Oh Crap": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Oh%20Crap.png",
+      "Seraphim": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Seraphim.png",
+      "Spider Baby": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Spider%20Baby.png",
+      "Spun": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Spun.png",
+      "Stompy": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Stompy.png",
+      "Super Bum": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Super%20Bum.png",
+      "Yes Mother?": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Mechanics/Transformations/Yes%20Mother%3F.png"
     }
   },
   "Objects": {
@@ -999,6 +1016,7 @@
       "Movable TNT": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/TNT/Movable%20TNT.gif",
       "TNT": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/TNT/TNT.gif"
     },
+    "Bed": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/Bed.gif",
     "Pedestal": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Objects/Pedestal.png"
   },
   "Pickups": {
@@ -1399,5 +1417,16 @@
     "Wish Bone": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Trinkets/Wish%20Bone.png",
     "Wooden Cross": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Trinkets/Wooden%20Cross.png",
     "Your Soul": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/Trinkets/Your%20Soul.png"
+  },
+  "UI": {
+    "Room Tags": {
+      "Bedroom": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/UI/Room%20Tags/Bedroom.gif",
+      "Boss Rush": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/UI/Room%20Tags/Boss%20Rush.png",
+      "Boss": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/UI/Room%20Tags/Boss.png",
+      "Library": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/UI/Room%20Tags/Library.png",
+      "Miniboss": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/UI/Room%20Tags/Miniboss.png",
+      "Shop": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/UI/Room%20Tags/Shop.png",
+      "Treasure Room": "https://raw.githubusercontent.com/Rockywell/Images/main/Isaac/UI/Room%20Tags/Treasure%20Room.png"
+    }
   }
 }
